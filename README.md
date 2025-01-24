@@ -1,1 +1,1 @@
-# Messaging-For-In-app-and-Web---Paraguay
+This repo consists the embedded code for Paraguay Messaging channel
